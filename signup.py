@@ -1,8 +1,8 @@
 from random import randint
 username = 0
 password = 0
-login_username = "NKats"
-login_password = "Caroline18112020"
+login_username = "XXXXXX"
+login_password = "XXXXXXXXX"
 password_attempts = 3
 
 print('''
